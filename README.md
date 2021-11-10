@@ -1,11 +1,11 @@
 ## ipaplots
 
-Description: Stata scheme of Innovations for Poverty Action (IPA). This is a beta version.
+Description: Stata scheme of Innovations for Poverty Action (IPA).
 
 ## Installation
  ```
 net install github, from("https://haghish.github.io/github/")
-github install rmcondor/ipaplots
+github install PovertyAction/ipaplots
 
 set scheme ipaplots
 ```
@@ -19,3 +19,5 @@ set scheme ipaplots
 
 ## Author
 IPA Peru
+[Ronny Condor](https://www.poverty-action.org/people/ronny-condor)
+[Kelly Montaño](https://www.poverty-action.org/people/kelly-monta%C3%B1o)
