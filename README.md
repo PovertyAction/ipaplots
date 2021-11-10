@@ -17,7 +17,5 @@ set scheme ipaplots
 <img src="./graphs/density.png" height="250"> <img src="./graphs/range_graphs.png" height="250">
 <img src="./graphs/bygraphs.png" height="503">
 
-## Author
-IPA Peru
-[Ronny Condor](https://www.poverty-action.org/people/ronny-condor)
-[Kelly Montaño](https://www.poverty-action.org/people/kelly-monta%C3%B1o)
+## Authors
+Innovations for Poverty Action, Peru ([Ronny Condor](https://www.poverty-action.org/people/ronny-condor) and [Kelly Montaño](https://www.poverty-action.org/people/kelly-monta%C3%B1o))
