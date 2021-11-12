@@ -3,11 +3,26 @@
 Description: Stata scheme of Innovations for Poverty Action (IPA).
 
 ## Installation
+
  ```
 net install github, from("https://haghish.github.io/github/")
 github install PovertyAction/ipaplots
 
+```
+## Instructions
+Use the following code in the do file to use the scheme after installation.
+
+```
 set scheme ipaplots
+```
+
+In case the scheme does not use the correct Open Sans font, which may happen on some systems, you may have to specify this yourself by adding the following code:
+
+```
+// Set IPA Fonts
+graph set window fontface "Open Sans"
+graph set print fontface "Open Sans"
+
 ```
 
 # Overview
