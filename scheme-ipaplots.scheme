@@ -7,6 +7,10 @@ sequence 1210
 label "ipaplots"   // auto generated
 #include s2color
 
+// Set IPA font
+graph set window fontface "Open Sans"
+graph set print fontface "Open Sans"
+
 // positions and sizes
 numstyle pcycle             15
 clockdir legend_position     3
