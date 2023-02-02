@@ -20,8 +20,8 @@ In case the scheme does not use the correct Open Sans font, which may happen on 
 
 ```
 // Set IPA Fonts
-graph set window fontface "Open Sans"
-graph set print fontface "Open Sans"
+graph set window fontface "Georgia"
+graph set print fontface "Georgia"
 
 ```
 
@@ -33,4 +33,4 @@ graph set print fontface "Open Sans"
 <img src="./graphs/bygraphs.png" height="503">
 
 ## Authors
-Innovations for Poverty Action, Peru ([Ronny Condor](https://www.poverty-action.org/people/ronny-condor) and [Kelly Montaño](https://www.poverty-action.org/people/kelly-monta%C3%B1o))
+Innovations for Poverty Action, Peru ([Ronny Condor](https://www.poverty-action.org/node/45391) and [Kelly Montaño](https://poverty-action.org/node/39116))
