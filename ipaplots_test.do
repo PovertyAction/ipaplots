@@ -9,10 +9,10 @@
 **	CREATED: 2021-10-28
 ********************************************************************************
 
-global graphs "C:\Users\\`c(username)'\Documents\GitHub\ipaplots\graphs"
+global graphs "D:\ipaplots\graphs"
 
 * Read the data
-use "https://github.com/La-Rotonda/blogrotonda/blob/main/scheme_test.dta?raw=true", clear
+use "https://github.com/PovertyAction/ipaplots/blob/main/ipaplots_test_data.dta?raw=true", clear
 
 * Set ipaplots scheme
 
