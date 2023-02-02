@@ -16,7 +16,7 @@ Use the following code in the do file to use the scheme after installation.
 set scheme ipaplots
 ```
 
-In case the scheme does not use the correct Open Sans font, which may happen on some systems, you may have to specify this yourself by adding the following code:
+In case the scheme does not use the correct Georgia font, which may happen on some systems, you may have to specify this yourself by adding the following code:
 
 ```
 // Set IPA Fonts
